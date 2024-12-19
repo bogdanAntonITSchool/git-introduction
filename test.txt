@@ -3,4 +3,5 @@ This is a test document.
 This is a new line.
 
 
+haha added a new line.
 hahahaha added a new line.
